@@ -1,0 +1,34 @@
+[
+  {
+    "id": "01",
+    "name": "Artificial Intelligence"
+  },
+  {
+    "id": "02",
+    "name": "Machine Learning"
+  },
+  {
+    "id": "03",
+    "name": "Computer Networking & Security"
+  },
+  {
+    "id": "04",
+    "name": "Data Structure"
+  },
+  {
+    "id": "05",
+    "name": "Algorithms Design & Analysis"
+  },
+  {
+    "id": "06",
+    "name": "Database Management System"
+  },
+  {
+    "id": "07",
+    "name": "Object Oriented Programming"
+  },
+  {
+    "id": "08",
+    "name": "Digital Image Processing"
+  }
+]

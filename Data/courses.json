@@ -1,0 +1,469 @@
+[
+  {
+    "_id": "6358a643cef25a80a930e21f",
+    "price": "$89",
+    "category_id": "01",
+    "category_name": "Artificial Intelligence",
+    "image_url": "https://images.pexels.com/photos/8438918/pexels-photo-8438918.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "title": "Artificial Intelligence A-Z™: Learn How To Build An AI",
+    "intro_description": "Combine the power of Data Science, Machine Learning and Deep Learning to create powerful AI for Real-World applications!",
+    "rating": {
+      "rate": 4.9,
+      "count": 35970
+    },
+    "learn": [
+      "Build an AI",
+      "Solve Real World Problems with AI",
+      "Make an AI to beat games"
+    ],
+    "requirements": ["High School Maths", "Basic Python knowledge"],
+    "description": "Learn key AI concepts and intuition training to get you quickly up to speed with all things AI. Learn to code self-improving AI for a range of purposes. In fact, we code together with you. Every tutorial starts with a blank page and we write up the code from scratch. This way you can follow along and understand exactly how the code comes together and what each line means. Plus, you'll get downloadable Python code templates for every AI you build in the course. This makes building truly unique AI as simple as changing a few lines of code. If you unleash your imagination, the potential is unlimited. You'll achieve your goal in not only 1 game but in 3. Each module is comprised of varying structures and difficulties, meaning you'll be skilled enough to build AI adaptable to any environment in real life, rather than just passing a glorified memory “test and forget” like most other courses. Practice truly does make perfect.\r\n",
+    "instructor": {
+      "name": "Hadelin de Ponteves",
+      "instructor_rating": "4.5",
+      "reviews": "294,111 ",
+      "img": "https://img-c.udemycdn.com/user/200_H/22113450_6fb5_3.jpg",
+      "students": "1,608,787"
+    }
+  },
+  {
+    "_id": "6358a64347fdc53fda4423d7",
+    "price": "$78",
+    "category_id": "02",
+    "category_name": "Machine Learning",
+    "image_url": "https://images.pexels.com/photos/529598/pexels-photo-529598.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "title": "Complete Machine Learning & Data Science Bootcamp 2022",
+    "intro_description": "Learn Data Science, Data Analysis, Machine Learning (Artificial Intelligence) and Python with Tensorflow, Pandas & more!",
+    "rating": {
+      "rate": 4.8,
+      "count": 7610
+    },
+    "learn": [
+      "Become a Data Scientist and get hire",
+      "Implement Machine Learning algorithms",
+      "Master Machine Learning and use it on the job"
+    ],
+    "requirements": [
+      "No prior experience is needed (not even Math and Statistics). We start from the very basics",
+      "A computer (Linux/Windows/Mac) with internet connection."
+    ],
+    "description": "This is a top selling Machine Learning and Data Science course just updated this month with the latest trends and skills for 2022! Become a complete Data Scientist and Machine Learning engineer! Join a live online community of 600,000+ engineers and a course taught by industry experts that have actually worked for large companies in places like Silicon Valley and Toronto. Graduates of Andrei’s courses are now working at Google, Tesla, Amazon, Apple, IBM, JP Morgan, Facebook, + other top tech companies. You will go from zero to mastery!. Learn Data Science and Machine Learning from scratch, get hired, and have fun along the way with the most modern, up-to-date Data Science course on Udemy (we use the latest version of Python, Tensorflow 2.0 and other libraries). This course is focused on efficiency: never spend time on confusing, out of date, incomplete Machine Learning tutorials anymore. We are pretty confident that this is the most comprehensive and modern course you will find on the subject anywhere (bold statement, we know).\r\n",
+    "instructor": {
+      "name": "Andrei Neagoie",
+      "instructor_rating": "4.6",
+      "reviews": "227,165 ",
+      "img": "https://img-c.udemycdn.com/user/200_H/38516954_b11c_3.jpg",
+      "students": "882,935"
+    }
+  },
+  {
+    "_id": "6358a643f97a7429de325206",
+    "price": "$20",
+    "category_id": "03",
+    "category_name": "Computer Networking & Security",
+    "image_url": "https://images.unsplash.com/photo-1551703599-6b3e8379aa8c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1173&q=80",
+    "title": "The Complete Networking Fundamentals Course. Your CCNA start",
+    "intro_description": "Learn about networking and start your journey to Cisco 200-301 Certification",
+    "rating": {
+      "rate": 4.6,
+      "count": 4210
+    },
+    "learn": [
+      "Describe network fundamentals and build simple LANs",
+      "Explain how addresses are allocated using DHCP",
+      "Explain the OSI and TCP/IP models"
+    ],
+    "requirements": [
+      "There are no specific prerequisites as the course covers all the topics in detail.",
+      "Basic understanding of computers (connect to the Internet)"
+    ],
+    "description": "Welcome to the Complete Network Fundamentals Course! In this course, you will learn the technologies that keep the world as you know today connected and running. We cover both the fundamentals of networking as well as the topics in the new Cisco CCNA 200-301 exam.Networks are all around us and you are using one right now to access this course.Imagine for a moment, how different your life would be without access to Facebook, Snapchat, Google, YouTube, Whatsapp or any of the other websites on the Internet? How would you live with no Internet? The Internet is extremely important in modern life today and all websites and Internet communication relies on networking. This reliance is only predicted to continue with the growth of the Internet of Things (IoT) in the next few years. Without routers, switches, network cabling and protocols like BGP there would be no Internet! This course will teach you how networks actually work and how you are able to connect to websites like Facebook, Google, and YouTube.Companies throughout the world (from the smallest to the largest) rely on networks designed, installed and maintained by networking engineers. Join this in demand industry! Companies throughout the world (from the smallest to the largest) rely on networks designed, installed and maintained by networking engineers. Join this in demand industry! Start your journey today learning about networking.\r\n",
+    "instructor": {
+      "name": "David Bombal",
+      "instructor_rating": "4.7",
+      "reviews": "125,421",
+      "img": "https://img-c.udemycdn.com/user/200_H/794308_b2a6_5.jpg",
+      "students": "1,049,517 "
+    }
+  },
+  {
+    "_id": "6358a6437370e738c7068ebf",
+    "price": "$50",
+    "category_id": "04",
+    "category_name": "Data Structure",
+    "image_url": "https://images.unsplash.com/photo-1555949963-aa79dcee981c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+    "title": "The Complete Data Structures Course in Python",
+    "intro_description": "Data Structures from Zero to Hero and Crack Top Companies 100+ Interview questions (Python Coding)",
+    "rating": {
+      "rate": 4.5,
+      "count": 3269
+    },
+    "learn": [
+      "Learn, implement, and use different Data Structures",
+      "Cracking the Coding Interview with 100+ questions with explanations",
+      "Become a better developer by mastering computer science fundamentals"
+    ],
+    "requirements": ["Basic Python Programming skills"],
+    "description": "Welcome to the Complete Data Structures in Python Bootcamp, the most modern, and the most complete Data Structures and Algorithms in Python course on the internet. At 40+ hours, this is the most comprehensive course online to help you ace your coding interviews and learn about Data Structures and Algorithms in Python. You will see 100+ Interview Questions done at the top technology companies such as Apple,Amazon, Google and Microsoft and how to face Interviews with comprehensive visual explanatory video materials which will bring you closer towards landing the tech job of your dreams! Learning Python is one of the fastest ways to improve your career prospects as it is one of the most in demand tech skills! This course will help you in better understanding every detail of Data Structures and how algorithms are implemented in high level programming language. We'll take you step-by-step through engaging video tutorials and teach you everything you need to succeed as a professional programmer. Learn basic algorithmic techniques such as greedy algorithms, binary search, sorting and dynamic programming to solve programming challenges. Learn the strengths and weaknesses of a variety of data structures, so you can choose the best data structure for your data and applications. Learn many of the algorithms commonly used to sort data, so your applications will perform efficiently when sorting large datasets \r\n",
+    "instructor": {
+      "name": "Elshad Karimov",
+      "instructor_rating": "4.5",
+      "reviews": "7,485 ",
+      "img": "https://img-c.udemycdn.com/user/200_H/31517360_e260.jpg",
+      "students": "73,249  "
+    }
+  },
+  {
+    "_id": "6358a643af6a6da20a8631e8",
+    "price": "$119",
+    "category_id": "05",
+    "category_name": "Algorithms Design & Analysis",
+    "image_url": "https://images.unsplash.com/photo-1642428899339-db778a4af19a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+    "title": "JavaScript Algorithms  Masterclass",
+    "intro_description": "The Missing Computer Science and Coding Interview Bootcamp",
+    "rating": {
+      "rate": 4.7,
+      "count": 21739
+    },
+    "learn": [
+      "Learn everything you need to ace difficult coding interviews",
+      "Master dozens of popular algorithms, including 6 sorting algorithms!",
+      "Improve your problem solving skills and become a stronger developer"
+    ],
+    "requirements": [
+      "Basic knowledge of JavaScript syntax",
+      "NO experience with data structures or computer science needed!"
+    ],
+    "description": "This course crams months of computer science and interview prep material into 20 hours of video. The content is based directly on last semester of my in-person coding bootcamps, where my students go on to land 6-figure developer jobs. I cover the exact same computer science content that has helped my students ace interviews at huge companies like Google, Tesla, Amazon, and Facebook. Nothing is watered down for an online audience; this is the real deal :)   We start with the basics and then eventually cover “advanced topics” that similar courses shy away from like Heaps, Graphs, and Dijkstra’s Shortest Path Algorithm. I start by teaching you how to analyze your code’s time and space complexity using Big O notation.  We cover the ins and outs of Recursion.  We learn a 5-step approach to solving any difficult coding problem. We cover common programming patterns. We implement popular searching algorithms. We write 6 different sorting algorithms: Bubble, Selection, Insertion, Quick, Merge, and Radix Sort.   Then, we switch gears and implement our own data structures from scratch, including linked lists, trees, heaps, hash tables, and graphs.  We learn to traverse trees and graphs, and cover Dijkstra's Shortest Path Algorithm.  The course also includes an entire section devoted to Dynamic Programming. \r\n",
+    "instructor": {
+      "name": "Colt Steele",
+      "instructor_rating": "4.7",
+      "reviews": "425,329 ",
+      "img": "https://img-c.udemycdn.com/user/200_H/4466306_6fd8_3.jpg",
+      "students": "1,362,294  "
+    }
+  },
+  {
+    "_id": "6358a643cf1f31390557dd0e",
+    "price": "$70",
+    "category_id": "06",
+    "category_name": "Database Management System",
+    "image_url": "https://images.pexels.com/photos/4508751/pexels-photo-4508751.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "title": "Database Management System from scratch - Part 1",
+    "intro_description": "Learn Database Management Systems from scratch as Database Management System forms the core of computer science",
+    "rating": {
+      "rate": 4.5,
+      "count": 2549
+    },
+    "learn": [
+      "You will become very familiar with the core concepts of Database Management Systems",
+      "You will view Computer Science in a different dimension",
+      "Understand how Database Management Systems work"
+    ],
+    "requirements": [
+      "Have a PC with internet connection",
+      "Even ZERO knowledge in Database Management Systems is fine - I'll teach you everything you need to know"
+    ],
+    "description": "Welcome to the course Database Management system from scratch !!! Mastering the concepts of Database Management System is very important to get started with Computer Science because Database Management System is the program which is responsible for the ease with which we are able to fetch the data from the database and that is the backbone of internet today. The concepts which we are going to study is going to give a very good understanding of Database Management System and by the end of it you will be able to answer any interview question on Database Management System. Without using Database Management Systems ,it is extremely difficult to communicate with the data in the server. Every server today has Database Management System installed in it. Through this course you will not only master the basics of Database Management Systems but also get ready for venturing into advanced concepts of Database Management Systems. In this course ,every concept of Database Management System is taught in an easy-to-understand manner such that anybody without any prerequisites will be able to master the concepts of Database Management System in the easiest way. Come and join me, I assure you that you will have the best learning experience of not just Database Management Systems but also the core of Computer Science in a different dimension.\r\n",
+    "instructor": {
+      "name": "Vignesh Sekar",
+      "instructor_rating": "4.5",
+      "reviews": "11,030 ",
+      "img": "https://img-c.udemycdn.com/user/200_H/43929702_a0b2_6.jpg",
+      "students": "31,843  "
+    }
+  },
+  {
+    "_id": "6358a6435edb58b05db0f1da",
+    "price": "$84",
+    "category_id": "07",
+    "category_name": "Object Oriented Programming",
+    "image_url": "https://images.unsplash.com/photo-1515879218367-8466d910aaa4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1169&q=80",
+    "title": "Object Oriented Programming with Python",
+    "intro_description": "Learn how to organize your Python code with OO with the help of many examples. A great place to start learning OOP!",
+    "rating": {
+      "rate": 4.8,
+      "count": 269
+    },
+    "learn": [
+      "refactor growing code and make it more readable by structuring it into new modules.",
+      "mastering decoupling by injecting dependencies when objects are instantiated.",
+      "extend existing code with minimal changes, by using polymorphism."
+    ],
+    "requirements": [
+      "Beginner level knowledge of Python or another programming language"
+    ],
+    "description": "Are you a beginning Python programmer that wants to prevent spaghetti code by organising code better? Do you often have to work with unstructured code that is hard to understand?. Or are you a developer that brings experience from other programming languages and want to learn how to use OOP in Python? Then this course is for you! The 'Object Oriented Programming with Python' course takes you on a journey starting with a small, naive approach that gradually is turned into a well structured Object Oriented Design. Each step of the journey introduces new challenges, communicates intended changes with UML and uses tools from the OOP toolkit to solve problems. Beginner Python developers who want to organise their code better by using OOP.Developers that bring experience from another programming language who want to learn using OOP with Python \r\n",
+    "instructor": {
+      "name": "Loek van den Ouweland",
+      "instructor_rating": "4.7",
+      "reviews": "469  ",
+      "img": "https://img-c.udemycdn.com/user/200_H/116168182_48d3_3.jpg",
+      "students": "1,394 "
+    }
+  },
+  {
+    "_id": "6358a643b52eb5c978ea0a94",
+
+    "price": "$84",
+    "category_id": "08",
+    "category_name": "Digital Image Processing",
+    "image_url": "https://images.unsplash.com/photo-1627734819947-ba884aea9801?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1217&q=80",
+    "title": "Python Digital Image Processing From Ground Up™",
+    "intro_description": "Image Processing : Edge-Detection Algorithms , Convolution, Filter Design, Gray-Level Transformation, Histograms etc.",
+    "rating": {
+      "rate": 4.5,
+      "count": 461
+    },
+    "learn": [
+      "Be able to suppress noise in images",
+      "Apply Edge-Detection Operators like Laplacian, Sobel, Prewitt, Robinson etc. on Images",
+      "Be able to compute an Image Histogram and Equalize it in Python"
+    ],
+    "requirements": [
+      "No programming experience needed - I'll teach you everything you need to know",
+      "No paid software required",
+      "I'll walk you through, step-by-step on how to download and install Python"
+    ],
+    "description": "With a programming based approach, this course is designed to give you a solid foundation in the most useful aspects of Image Processing in an engaging and easy to follow way. The goal of this course is to present practical techniques while avoiding  obstacles of abstract mathematical theories. To achieve this goal, the image processing techniques are explained in plain language, not simply proven to be true through mathematical derivations. Still keeping it simple, this course comes in different programming languages so that students can put the techniques to practice using a programming language of their choice. This version of the course uses the Python programming language. By the end of the course you should be able to perform 2-D Discrete Convolution with images in python, perform Edge-Detection in python , perform Spatial Filtering in python, compute an Image Histogram and Equalize it in python,  perform  Gray Level Transformations, suppress noise in images, understand all about operators such as Laplacian, Sobel, Prewitt, Robinson, even give a lecture on image processing and more. Please take a look at the full course curriculum. REMEMBER : I have no doubt you will love this course. Also it comes with a  FULL money back guarantee for 30 days!  So put simply, you really have nothing to loose and everything to gain.\r\n",
+    "instructor": {
+      "name": "PyTribe",
+      "instructor_rating": "4.2",
+      "reviews": "1,277   ",
+      "img": "https://img-c.udemycdn.com/user/200_H/119379340_598e.jpg",
+      "students": "13,669 "
+    }
+  },
+  {
+    "_id": "6358a64305726b8df8c90868",
+    "price": "$84",
+    "category_id": "01",
+    "category_name": "Artificial Intelligence",
+    "image_url": "https://images.unsplash.com/photo-1589254065878-42c9da997008?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+    "title": "Modern Artificial Intelligence with Zero Coding",
+    "intro_description": "Build 5 Practical Projects & Harness the Power of AI to solve practical, real-world business problems with Zero Coding!",
+    "rating": {
+      "rate": 4.7,
+      "count": 764
+    },
+    "learn": [
+      "Build, train and deploy AI models to detect people emotions using Google Teachable Machine",
+      "Leverage the power of AI to recognize food types using DataRobot AI",
+      "Leverage the power of AI to recognize food types using DataRobot AI"
+    ],
+    "requirements": [
+      "The course has no prerequisites and is open to anyone with no or basic programming knowledge. Students who enroll in this course will master AI fundamentals and directly apply these skills to solve real world challenging problems."
+    ],
+    "description": "Do you want to build super-powerful applications in Artificial intelligence (AI) but you don’t know how to code? Are you intimidated by AI and don’t know where to start? Or maybe you don’t have a computer science degree and want to break into AI? Are you an aspiring entrepreneur who wants to maximize business revenue and reduce costs with AI but don’t know how to get there quickly and efficiently? If the answer is yes to any of these questions, then this course is for you! Artificial intelligence is one of the top tech fields to be in right now! AI will change our lives in the same way electricity did 100 years ago. AI is widely adopted in Finance, banking, healthcare, transportation, and technology. The field is exploding with opportunities and career prospects. This course solves a key problem which is making AI available to anyone with no coding background or computer science degree. The purpose of this course is to provide you with knowledge of key aspects of modern AI without any intimidating mathematics and in a practical, easy, and fun way. The course provides students with practical hands-on experience using real-world datasets.\r\n",
+    "instructor": {
+      "name": "Dr. Ryan Ahmed, Ph.D., MBA",
+      "instructor_rating": "4.5",
+      "reviews": "30,130 ",
+      "img": "https://img-c.udemycdn.com/user/200_H/23449198_c519_17.jpg",
+      "students": "310,450 "
+    }
+  },
+  {
+    "_id": "6358a6435786735562600415",
+
+    "price": "$85",
+    "category_id": "02",
+    "category_name": "Machine Learning",
+    "image_url": "https://images.unsplash.com/photo-1563968743333-044cef800494?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1058&q=80",
+    "title": "Machine Learning A-Z™: Hands-On Python & R In Data Science",
+    "intro_description": "Learn to create Machine Learning Algorithms in Python and R from two Data Science experts. Code templates included.",
+    "rating": {
+      "rate": 4.5,
+      "count": 162780
+    },
+    "learn": [
+      "Master Machine Learning on Python & R",
+      "Make accurate predictions",
+      "Make robust Machine Learning models"
+    ],
+    "requirements": ["Just some high school mathematics level."],
+    "description": "Interested in the field of Machine Learning? Then this course is for you! This course has been designed by two professional Data Scientists so that we can share our knowledge and help you learn complex theory, algorithms, and coding libraries in a simple way. We will walk you step-by-step into the World of Machine Learning. With every tutorial, you will develop new skills and improve your understanding of this challenging yet lucrative sub-field of Data Science. This course is fun and exciting, but at the same time, we dive deep into Machine Learning. Moreover, the course is packed with practical exercises that are based on real-life examples. So not only will you learn the theory, but you will also get some hands-on practice building your own models. And as a bonus, this course includes both Python and R code templates which you can download and use on your own projects.\r\n",
+    "instructor": {
+      "name": "Kirill Eremenko",
+      "instructor_rating": "4.5",
+      "reviews": "592,430",
+      "img": "https://img-c.udemycdn.com/user/200_H/2364054_83cd_5.jpg",
+      "students": "2,219,575"
+    }
+  },
+  {
+    "_id": "6358a64387fb65184e464984",
+    "price": "$30",
+    "category_id": "03",
+    "category_name": "Computer Networking & Security",
+    "image_url": "https://images.unsplash.com/photo-1506399558188-acca6f8cbf41?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1573&q=80",
+    "title": "The Ultimate : Computer Networks ( Part 1 ).",
+    "intro_description": "LAN Technologies, Sliding Window Protocol, Transmission Control Protocol",
+    "rating": {
+      "rate": 5,
+      "count": 13
+    },
+    "learn": [
+      "This course will students to do Certification like CCNA, CCNP etc.",
+      "Understanding LAN Technologies.",
+      "Very detailed discussion on Transmission Control Protocol (TCP)."
+    ],
+    "requirements": ["No Prerequisite."],
+    "description": "This course is to provide students with an overview of the concepts and fundamentals of data communication and computer networks. Topics to be covered include: data communication concepts and techniques in a layered network architecture, communications switching and routing, types of communication, network congestion, network topologies, network configuration and management, network model components, layered network models (OSI reference model, TCP/IP networking architecture) and their protocols, various types of networks (LAN, MAN, WAN and Wireless networks) and their protocols. The course is supplemented by a practical component covered in CS335 concurrently. To develop an understanding of computer networking basics.To develop an understanding of different components of computer networks, various protocols, modern technologies and their applications.Recognize the technological trends of Computer Networking. Evaluate the challenges in building networks and solutions to those. Familiarize the student with the basic taxonomy and terminology of the computer networking area. Identify the different types of network devices and their functions within a network. Understand and explain Data Communications System and its components.\r\n",
+    "instructor": {
+      "name": "Atchyut Kumar",
+      "instructor_rating": "4.4",
+      "reviews": "863 ",
+      "img": "https://img-c.udemycdn.com/user/200_H/103628478_cc67.jpg",
+      "students": "19,965"
+    }
+  },
+  {
+    "_id": "6358a6434e523c08a595ab85",
+    "price": "$45",
+    "category_id": "04",
+    "category_name": "Data Structure",
+    "image_url": "https://images.unsplash.com/photo-1555949963-aa79dcee981c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+    "title": "Data Structures: Deep Dive Using Java",
+    "intro_description": "Learn about Arrays, Linked Lists, Trees, HashTables, Stacks, Queues, Heaps, Sort algorithms and Search algorithms",
+    "rating": {
+      "rate": 4.5,
+      "count": 13296
+    },
+    "learn": [
+      "Learn the strengths and weaknesses of a variety of data structures, so you can choose the best data structure for your data and applications",
+      "Code an implementation of each data structure, so you understand how they work under the covers"
+    ],
+    "requirements": [
+      "Previous experience with an object-oriented programming language, preferably Java (but any OO language is fine)."
+    ],
+    "description": "So you've worked with the basics of data structures and algorithms in Java (or another OO programming language) but feel like you need a deeper knowledge of how things work.Maybe you have taken other courses on this topic that focus more on teaching how to pass job interview tests (theory) instead of how to make good choices for the programs you develop (implementation). Or maybe you are ready to move from a junior programming position to a more senior one and need to get skilled in advanced concepts like data structures, and how to apply them to your own projects. Whatever the reason, if you are looking for a course that focus on the implementations to give you a complete understanding of how things work, then this is the course for you. This course goes over the theory of how things work, but only to give you what you need to know to understand the implementation covered. Complete source code is included and available for you to download.This is a hands-on course!  If you want to try understand things at a deep level, and work on implementations, rather than theory, then again, this is the course for you. The course also spends more time than most other courses of its kind looking at what’s available in the JDK. Students wanting to understand how things work under the hood will benefit enormously from this course. Why learn about data structures and algorithms? The reality is, the more you learn about data structures and algorithms, the better a programmer you become.\r\n",
+    "instructor": {
+      "name": "Tim Buchalka",
+      "instructor_rating": "4.5",
+      "reviews": "316,355",
+      "img": "https://img-c.udemycdn.com/user/200_H/599932_71aa_5.jpg",
+      "students": "1,226,827   "
+    }
+  },
+  {
+    "_id": "6358a6436feb31beef03fab3",
+    "price": "$84",
+    "category_id": "05",
+    "category_name": "Algorithms Design & Analysis",
+    "image_url": "https://images.unsplash.com/photo-1432888498266-38ffec3eaf0a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1174&q=80",
+    "title": "LeetCode In Python: 50 Algorithms Coding Interview Questions",
+    "intro_description": "Practice data structure and algorithms questions for interviews at FAANG companies like Google, Facebook, Apple & Amazon",
+    "rating": {
+      "rate": 4.6,
+      "count": 1180
+    },
+    "learn": [
+      "Basic Knowledge of fundamental data structures and algorithms is preferred",
+      "Basic Knowledge of python is preferred",
+      "Popular problems patterns"
+    ],
+    "requirements": [
+      "Basic knowledge of JavaScript syntax",
+      "NO experience with data structures or computer science needed!",
+      "If you want to submit the code yourself, you should be familiar with leetCode and have an account"
+    ],
+    "description": "Welcome to the course! In this course, you'll have a detailed, step by step explanation of 50 hand-picked LeetCode questions where you'll learn about the most popular techniques and problems used in the coding interview, This is the course I wish I had when I was doing my interviews. and it comes with a 30-day money-back guarantee  What is LeetCode? LeetCode is essentially a huge repository of real interview questions asked by the most popular tech companies ( Google, Amazon, Facebook, Microsoft, and more ). The problem with LeetCode is also its advantage, IT'S HUGE, so huge in fact that interviewers from the most popular companies often directly ask questions they find on LeetCode, So it's hard to navigate through the huge amount of problems to find those that really matter, this is what this course is for. I spent countless hours on LeetCode and I'm telling you that you don't have to do the same and still be able to get a job at a major tech company. Course overview : In this course, I compiled 50 of the most important and the most popular interview questions asked by these major companies and I explain them, in a true STEP BY STEP fashion to help you understand exactly how to solve these types of questions. The problems are handpicked to ensure complete coverage of the most popular techniques, data structures, and algorithms used in interviews so you can generalize the patterns you learn here on other problems.\r\n",
+    "instructor": {
+      "name": "Bit Punch",
+      "instructor_rating": "4.6",
+      "reviews": "1,180 ",
+      "img": "https://img-c.udemycdn.com/user/200_H/56716370_f37d.jpg",
+      "students": "12,136  "
+    }
+  },
+  {
+    "_id": "6358a64305db402b1679e4ff",
+    "price": "$60",
+    "category_id": "06",
+    "category_name": "Database Management System",
+    "image_url": "https://images.pexels.com/photos/5480781/pexels-photo-5480781.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "title": "Fundamentals of Database Engineering",
+    "intro_description": "Learn ACID, Indexing, Partitioning, Sharding, Concurrency control, Replication, DB Engines, Best Practices and More!",
+    "rating": {
+      "rate": 4.7,
+      "count": 4481
+    },
+    "learn": [
+      "Learn and understand ACID Properties",
+      "Database Partitioning",
+      "Concurrency Control (Optimistic, Pessimistic)"
+    ],
+    "requirements": [
+      "Have worked with databases before but wish to get deeper understanding",
+      "Basic SQL knowledge"
+    ],
+    "description": "Database Engineering is a very interesting sector in software engineering. If you are interested in learning about database engineering you have come to the right place. I have curated this course carefully to discuss the Fundamental concepts of database engineering. This course will not teach you SQL or programming languages, however, it will teach you skillsets and patterns that you can apply in database engineering. A few of the things that you will learn are Indexing, Partitioning, Sharding, Replication, b-trees in-depth indexing, Concurrency control, database engines and security, and much more. I believe that learning the fundamentals of database engineering will equip you with the necessary means to tackle difficult and challenging problems yourself. I always compare engineering to math, you never memorize specific formulas and equations, you know the basic proves and derive and solve any equation one throws at you. Database engineering is similar, you can't possibly say MongoDB is better than MySQL or Postgres is better than Oracle. Instead, you learn your use case and by understanding how each database platform does its own trade-offs you will be able to make optimal decisions.\r\n",
+    "instructor": {
+      "name": "Hussein Nasser",
+      "instructor_rating": "4.6",
+      "reviews": "6,920 ",
+      "img": "https://img-c.udemycdn.com/user/200_H/58408772_dca4.jpg",
+      "students": "98,414"
+    }
+  },
+  {
+    "_id": "6358a64308d3543db55acf03",
+    "price": "$86",
+    "category_id": "07",
+    "category_name": "Object Oriented Programming",
+    "image_url": "https://images.pexels.com/photos/360591/pexels-photo-360591.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "title": "Beginning C++ Programming - From Beginner to Beyond",
+    "intro_description": "Obtain Modern C++ Object-Oriented Programming (OOP) and STL skills. C++14 and C++17 covered. C++20 info see below.",
+    "rating": {
+      "rate": 4.6,
+      "count": 53039
+    },
+    "learn": [
+      "Learn Modern C++ rather than an obsolete version of C++ that most other courses teach",
+      "Learn C++ features from basic to more advanced such as inheritance and polymorphic functions",
+      "Learn all about using C++ Lambda Expressions"
+    ],
+    "requirements": ["Access to a computer running Windows, Mac OS X or Linux"],
+    "description": "Which programming language is often seen as a badge of honor among software developers?  C++ Which programming language can you learn that when added to your resume,  will often get you a job interview?  C++  Which programming language is routinely ranked in the top 5 programming languages by popularity, and been consistently in the top 10 for close to 20 years?  C++ Why you should learn C++ Much, if not most of the software written today is still written in C++ and this has been the case for many, many years. Not only is C++ popular, but it is also a very relevant language. If you go to GitHub you will see that there are a huge number of active C++ repositories and C++ is also extremely active on stack overflow. There are many, many leading software titles written entirely or partly in C++. These include the Windows, Linux, and Mac OSX operating systems! Many of the Adobe products such as Photoshop and Illustrator,  the MySQL and MongoDB database engines, and many many more are written in C++. Leading tech companies use C++ for many of their products and internal research and development. These include Amazon, Apple, Microsoft, PayPal, Google, Facebook, Oracle, and many more.\r\n",
+    "instructor": {
+      "name": "Dr. Frank Mitropoulos",
+      "instructor_rating": "4.6",
+      "reviews": "53,792",
+      "img": "https://img-c.udemycdn.com/user/200_H/33518230_62f0_6.jpg",
+      "students": "225,905 "
+    }
+  },
+  {
+    "_id": "6358a64314a1de5a47c61145",
+
+    "price": "$84",
+    "category_id": "08",
+    "category_name": "Digital Image Processing",
+    "image_url": "https://www.simplilearn.com/ice9/free_resources_article_thumb/what_is_image_Processing.jpg",
+    "title": "Learn image processing and GUIs while having fun in MATLAB",
+    "intro_description": "Improve your digital image processing and image processing programming skills in MATLAB. And have fun in the process!",
+    "rating": {
+      "rate": 4.6,
+      "count": 194
+    },
+    "learn": [
+      "How to think about and work with digital images!",
+      "Basic MATLAB programming skills",
+      "Access to MATLAB software"
+    ],
+    "requirements": [
+      "A computer (duh!)",
+      "No paid software required",
+      "I'll walk you through, step-by-step on how to download and install Python"
+    ],
+    "description": "Images are the most important ways of getting information across, ranging from art to marketing to politics. And nowadays, nearly all images are digital. Therefore, it's important to know about image processing and digital image processing. You need some basic MATLAB programming experience. If you are totally new to MATLAB, then please take an intro-MATLAB programming course first. If you are familiar with variables, if-then statements, for-loops, and creating functions, then you have the necessary knowledge for this course. Check out the list of topics and watch the preview videos to find out if this course is right for you. If you have any questions, send me a message. You should also check out the student reviews of my other courses to see what people think about my teaching style in general. See you in class!\r\n",
+    "instructor": {
+      "name": "Mike X Cohen",
+      "instructor_rating": "4.6",
+      "reviews": "35,631   ",
+      "img": "https://img-c.udemycdn.com/user/200_H/37969484_bca7_9.jpg",
+      "students": "183,171 "
+    }
+  }
+]
