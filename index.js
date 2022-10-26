@@ -19,7 +19,7 @@ app.get('/course-categories', (req, res) => {
 app.get('/category/:id', (req, res) => {
   const id = req.params.id;
   if (id == '00') {
-    res.send('courses');
+    res.send(courses);
   } else {
     const categoryCourses = courses.filter(
       (course) => course.category_id == id
@@ -33,6 +33,13 @@ app.get('/courses', (req, res) => {
 });
 
 app.get('/course/:id', (req, res) => {
+  const id = req.params.id;
+  const selectedCourse = courses.find((course) => course._id == id);
+  res.send(selectedCourse);
+  console.log(req.params.id);
+});
+
+app.get('/checkout/:id', (req, res) => {
   const id = req.params.id;
   const selectedCourse = courses.find((course) => course._id == id);
   res.send(selectedCourse);
